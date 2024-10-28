@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #2b2a33;
+}
+
+main{
+    columns: 300px;
+}
+
+main img{
+    width: 100%;
+}
+
+section{
+    column-count: 3;
+}
+
+section img{
+    width: 100%;
+    margin-bottom: 1em;
+}
